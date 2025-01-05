@@ -77,3 +77,16 @@ To learn more about React Native, take a look at the following resources:
 - [Learn the Basics](https://reactnative.dev/docs/getting-started) - a **guided tour** of the React Native **basics**.
 - [Blog](https://reactnative.dev/blog) - read the latest official React Native **Blog** posts.
 - [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
+
+ <!-- <h2>Preview:</h2>
+
+<div style="display: flex; gap: 10px;">
+<img src="images/1.jpg" alt="Alt text" width="20%">
+<img src="images/2.jpg" alt="Alt text" width="20%">
+<img src="images/3.jpg" alt="Alt text" width="20%">
+<img src="images/4.jpg" alt="Alt text" width="20%">
+<img src="images/5.jpg" alt="Alt text" width="20%">
+<img src="images/6.jpg" alt="Alt text" width="20%">
+
+</div> -->
+
