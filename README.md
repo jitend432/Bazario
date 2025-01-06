@@ -78,15 +78,16 @@ To learn more about React Native, take a look at the following resources:
 - [Blog](https://reactnative.dev/blog) - read the latest official React Native **Blog** posts.
 - [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
 
- <!-- <h2>Preview:</h2>
+ 
+ <h2>Preview:</h2>
 
 <div style="display: flex; gap: 10px;">
-<img src="images/1.jpg" alt="Alt text" width="20%">
-<img src="images/2.jpg" alt="Alt text" width="20%">
-<img src="images/3.jpg" alt="Alt text" width="20%">
-<img src="images/4.jpg" alt="Alt text" width="20%">
-<img src="images/5.jpg" alt="Alt text" width="20%">
-<img src="images/6.jpg" alt="Alt text" width="20%">
+<img src="./assets/Readme-Image/Image1.jpg" alt="Alt text" width="20%">
+<img src="./assets/Readme-Image/Image2.jpg" alt="Alt text" width="20%">
+<img src="./assets/Readme-Image/Image3.jpg" alt="Alt text" width="20%">
+<img src="./assets/Readme-Image/Image4.jpg" alt="Alt text" width="20%">
+<img src="./assets/Readme-Image/Image5.jpg" alt="Alt text" width="20%">
 
-</div> -->
+
+</div>
 
